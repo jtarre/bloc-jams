@@ -72,7 +72,8 @@
     color: blue;
     height: @navBarHeight;
     
-    .links-container {
+}
+ .navbar .links-container {
         display: table; /* two props: block and inline */ 
         position: absolute;
         top: 0;
@@ -83,8 +84,6 @@
         
         
     }
-}
-
 
 
 
